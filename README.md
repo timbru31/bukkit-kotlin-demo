@@ -1,4 +1,7 @@
 # KotlinDemo
+[![Known Vulnerabilities](https://snyk.io/test/github/timbru31/bukkit-kotlin-demo/badge.svg)](https://snyk.io/test/github/timbru31/bukkit-kotlin-demo)
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 ## Info
 This proof of concept shows that the advantages of Kotlin can be used in the Bukkit context.
