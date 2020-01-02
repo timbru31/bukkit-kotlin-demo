@@ -3,7 +3,7 @@ main: de.dustplanet.kotlindemo.KotlinDemo
 version: 0.0.1
 author: xGhOsTkiLLeRx
 website: https://github.com/timbru31/bukkit-kotlin-demo
-api-version: 1.13
+api-version: 1.15
 commands:
   kotlin:
     description: Greets all online players
