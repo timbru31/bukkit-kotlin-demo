@@ -15,7 +15,7 @@ class KotlinDemo: JavaPlugin, Listener, CommandExecutor {
 
     override fun onEnable() {
         server.pluginManager.registerEvents(this, this)
-        getCommand("kotlin").setExecutor(this)
+        getCommand("kotlin")?.setExecutor(this)
     }
     
 
